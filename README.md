@@ -6,4 +6,4 @@
 - Samuel Pereira Barreto, 638217
 - Isac Rabelo Teotonio Lopes, 617865
 
-<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/294de63b-4fdf-434d-9483-ee7d6bd1c510" />
+<img alt="image" src="https://raw.githubusercontent.com/samubarreto/Autkids-Cooming-Soon/main/assets/print-readme.png" />
