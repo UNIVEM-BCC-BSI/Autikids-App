@@ -1,4 +1,10 @@
-# Integrantes
+# Autkids
+
+##### O Autkids é um aplicativo criado para apoiar crianças no desenvolvimento da comunicação, rotina e habilidades sociais por meio de atividades divertidas e interativas. [Acesse a landing page 🔗](https://autkids.com)
+
+---
+
+#### Integrantes
 - Andrei Santos de Oliveira, 638289
 - Bruno Marques Freitas, 635601
 - Caio Issao Fujisawa, 634591
