@@ -2,6 +2,7 @@
 
 ##### O Autkids é um aplicativo criado para apoiar crianças no desenvolvimento da comunicação, rotina e habilidades sociais por meio de atividades divertidas e interativas.
 > [Acesse a landing page para mais informações🔗](https://autkids.com)
+> 
 > [Veja nosso pitch no Youtube🔗](https://youtu.be/NyOSr8W7unY)
 
 <a href="https://autkids.com/" target="_blank">
