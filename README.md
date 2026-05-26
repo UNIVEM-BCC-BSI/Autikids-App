@@ -21,7 +21,10 @@
 
 ---
 
-## Sobre o projeto
+<details>
+<summary><strong>📖 Sobre o projeto</strong></summary>
+
+<br>
 
 O Autkids foi criado com o objetivo de auxiliar crianças no processo de comunicação alternativa e no desenvolvimento de habilidades do dia a dia através de uma experiência intuitiva e acolhedora.
 
@@ -34,9 +37,14 @@ O aplicativo oferece recursos voltados para:
 - Personalização de conteúdos
 - Experiência inclusiva e acessível
 
+</details>
+
 ---
 
-## Equipe
+<details>
+<summary><strong>👥 Equipe</strong></summary>
+
+<br>
 
 | Nome | RA |
 |---|---|
@@ -47,19 +55,29 @@ O aplicativo oferece recursos voltados para:
 | [Samuel Pereira Barreto](https://www.linkedin.com/in/samubrreto/) | 638217 |
 | Isac Rabelo Teotonio Lopes | 617865 |
 
+</details>
+
 ---
 
-## Links
+<details>
+<summary><strong>🔗 Links</strong></summary>
+
+<br>
 
 - 🌐 Site oficial: https://autkids.com
 - 🎥 Pitch: https://youtu.be/NyOSr8W7unY
 - 💼 LinkedIn: https://www.linkedin.com/company/autkids
 
+</details>
+
 ---
 
-## Tecnologias utilizadas
+<details>
+<summary><strong>⚙️ Tecnologias utilizadas</strong></summary>
 
-### Backend
+<br>
+
+## Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker" />
@@ -78,7 +96,7 @@ O aplicativo oferece recursos voltados para:
 
 ---
 
-### Aplicativo Mobile
+## Aplicativo Mobile
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,react,firebase,sqlite" />
@@ -97,7 +115,7 @@ O aplicativo oferece recursos voltados para:
 
 ---
 
-### Testes e automações
+## Testes e automações
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,py" />
@@ -112,7 +130,7 @@ O aplicativo oferece recursos voltados para:
 
 ---
 
-### Ferramentas
+## Ferramentas
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,figma" />
@@ -124,3 +142,5 @@ O aplicativo oferece recursos voltados para:
 - Seq
 - Gource
 - cloc
+
+</details>
