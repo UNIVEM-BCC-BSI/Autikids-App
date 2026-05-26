@@ -4,17 +4,19 @@
 > [Acesse a landing page para mais informações🔗](https://autkids.com)
 > 
 > [Veja nosso pitch no Youtube🔗](https://youtu.be/NyOSr8W7unY)
+>
+> [Nos siga no Linkedin🔗](https://www.linkedin.com/company/autkids)
 
 <a href="https://autkids.com/" target="_blank">
   <img alt="image" src="https://raw.githubusercontent.com/samubarreto/Autkids-Cooming-Soon/main/assets/print-readme.png" />
 </a>
 
 #### Integrantes
-- Andrei Santos de Oliveira, 638289
-- Bruno Marques Freitas, 635601
-- Caio Issao Fujisawa, 634591
-- Lucas Kenji Leite Konda, 635936
-- Samuel Pereira Barreto, 638217
+- [Andrei Santos de Oliveira, 638289](https://www.linkedin.com/in/andrei-oliveira-48516b244/)
+- [Bruno Marques Freitas, 635601](https://www.linkedin.com/in/bruno-freitas-30a21526a/)
+- [Caio Issao Fujisawa, 634591](https://www.linkedin.com/in/caio-fujisawa-807a6a2b2/)
+- [Lucas Kenji Leite Konda, 635936](https://www.linkedin.com/in/lucaskonda/)
+- [Samuel Pereira Barreto, 638217](https://www.linkedin.com/in/samubrreto/)
 - Isac Rabelo Teotonio Lopes, 617865
 
 ---
