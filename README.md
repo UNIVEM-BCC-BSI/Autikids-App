@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://autkids.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/samubarreto/Autkids-Cooming-Soon/main/assets/print-readme.png" alt="Autkids Banner" />
+    <img src="https://github.com/user-attachments/assets/f04c0111-1a5e-441d-b926-309b6b17d96d" alt="Autkids Banner" />
   </a>
 </p>
 
